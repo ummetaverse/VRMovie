@@ -27,11 +27,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Positif3.unity
     guid: bbdd960a29b3f874e825bb4e00306b2e
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
     path: Assets/Scenes/PosImmersive.unity
     guid: 041e7840d26520b459305640edafaef1
+  - enabled: 1
+    path: Assets/Scenes/NegativeImmersive.unity
+    guid: 1c8de6facff0dbd40aa77bcda5609736
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: fec8e90b8cc72a54498f6442eada26aa,
       type: 2}
